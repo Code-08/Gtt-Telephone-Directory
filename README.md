@@ -9,13 +9,11 @@ You can download the windows application here: [Link to Application](http://goog
 
 You can mix and match the filters to suit your needs. However, I wouldn't suggest you use this feature if you're not a developer!
 
-- Number.StartsWith("258")
-
+```Number.StartsWith("258")```
 > Result: Everyone who has a number that starts with "258" will be exported.
 
 
 - Number.EndsWith("07")
-
 > Result: Everyone who has a number that ends with "07" will be exported.
 
 
