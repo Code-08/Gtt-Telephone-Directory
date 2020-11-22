@@ -33,7 +33,7 @@ You can mix and match the filters to suit your needs. However, I wouldn't sugges
 > Result: Everyone who has a number that is "232-1234" OR "256-4321" will be exported.
 <br />
 
-- ```(Number == "232-1234" || Number == "256-4321) && (Number.StartsWith("456") || Number.EndsWith("55")```
+- ```(Number == "232-1234" || Number == "256-4321") && (Number.StartsWith("456") || Number.EndsWith("55"))```
 > Result: Everyone who has a number that is "232-1234" OR "256-4321"   AND   has a number that starts with "456" OR ends with "55" will be exported.
 <br />
 <br />
