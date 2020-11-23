@@ -2,7 +2,7 @@
 
 This app is designed to export data from the 2018 Gtt Telephone Directory to excel/pdf/xml format. 
 
-You can download the windows application here: [Click here to download](https://github.com/JerryBerryJW/Gtt-Telephone-Directory/raw/main/Gtt%20Telephone%20Directory.zip). Once the zip file is downloaded, unzip it and run the exe file. Don't worry, it's completely safe.
+You can download the windows application here: [Click here to download](https://github.com/JerryBerryJW/Gtt-Telephone-Directory/raw/main/Gtt%20Telephone%20Directory%20Setup.msi). Download and Install the msi file. Don't worry, it's completely safe.
 
 
 ## Advanced Filter Examples
