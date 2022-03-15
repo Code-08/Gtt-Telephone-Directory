@@ -1,4 +1,4 @@
-# Gtt-Telephone-Directory
+# Gtt-Telephone-Directory (Guyana)
 
 This app is designed to export data from the 2018 Gtt Telephone Directory to excel/pdf/xml format. 
 
